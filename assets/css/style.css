@@ -180,3 +180,36 @@ li{
     letter-spacing: 0.905em;
     line-height: 36px;
 }
+.info_pretitletext{
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 26px;
+    color: #3B668D;
+    text-transform: uppercase;
+    line-height: 40px;
+    margin-bottom: 13px;
+}
+.info_text{
+    font-family: "Montserrat";
+    font-weight: 400;
+    font-size: 18px;
+    letter-spacing: 0.075em;
+    width: 475px;
+    color: #2B4964;
+    margin-bottom: 25px;
+    line-height: 28px;
+}
+.info_btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 308px;
+    height: 79px;
+    font-family: "Comfortaa";
+    font-size: 24px;
+    color: #fff;
+    border-radius: 45px;
+    box-shadow: 0px 6px 8px 0px rgba(0, 0, 0, 0.2);
+    background: linear-gradient(90deg, #5AC4FF 0%, #B250FF 100%);
+    transition: 0.3s;
+}
